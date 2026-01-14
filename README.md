@@ -33,9 +33,4 @@ MoodConnect is a **real-time mood sharing and chat platform** designed to help u
 
 ---
 
-## How to Use
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/MoodConnect.git
-   cd MoodConnect
